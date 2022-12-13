@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1670094788 source:e:\downloads\ekke3\cpp\cpp_beadando\main.cpp
+	<iostream>
+	"Gep.hpp"
+	"Munkagep.hpp"
+	"Teherauto.hpp"
+	<list>
+	<vector>
+	"Student.hpp"
+	<ostream>
+
+1669564783 source:e:\downloads\ekke3\cpp\cpp_beadando\gep.cpp
+	"Gep.hpp"
+	<iostream>
+	<string>
+	<fstream>
+
+1670095172 e:\downloads\ekke3\cpp\cpp_beadando\gep.hpp
+	<string>
+
+1669561704 e:\downloads\ekke3\cpp\cpp_beadando\munkagep.hpp
+	"Gep.hpp"
+	<string>
+
+1669561709 e:\downloads\ekke3\cpp\cpp_beadando\teherauto.hpp
+	"Gep.hpp"
+	<string>
+
+1670093746 e:\downloads\ekke3\cpp\cpp_beadando\student.hpp
+
+1669564784 source:c:\users\mezof\source\repos\c++\cpp_beadando\gep.cpp
+	"Gep.hpp"
+	<iostream>
+	<string>
+	<fstream>
+
+1670095174 c:\users\mezof\source\repos\c++\cpp_beadando\gep.hpp
+	<string>
+
+1670341081 source:c:\users\mezof\source\repos\c++\cpp_beadando\main.cpp
+	<iostream>
+	"Gep.hpp"
+	"Munkagep.hpp"
+	"Teherauto.hpp"
+	<vector>
+
+1669561706 c:\users\mezof\source\repos\c++\cpp_beadando\munkagep.hpp
+	"Gep.hpp"
+	<string>
+
+1669561710 c:\users\mezof\source\repos\c++\cpp_beadando\teherauto.hpp
+	"Gep.hpp"
+	<string>
+
